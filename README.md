@@ -5,17 +5,17 @@
 
 - 🔭 I’m currently working on [Bus Reservation System](https://github.com/mrunalnshah/Bus-Reservation-System)
 
-- 🌱 I’m currently learning **C/C++**
+- 🌱 I’m currently learning : **C/C++**
 
-- 👯 I’m looking to collaborate on **LSB based Image steganography**
+- 👯 I’m looking to collaborate on : **LSB based Image steganography**
 
-- 🤝 I’m looking for help with **LSB based Image steganography**
+- 🤝 I’m looking for help with : **LSB based Image steganography**
 
 - 👨‍💻 All of my projects are available at [https://github.com/mrunalnshah](https://github.com/mrunalnshah)
 
 - 💬 Ask me **Anything that exists...Maybe Everything?**
 
-- 📫 How to reach me **mrunalnshah@protonmail.com**
+- 📫 How to reach me : **mrunalnshah@protonmail.com**
 
 - ⚡ Fun fact : **I love you**
 
