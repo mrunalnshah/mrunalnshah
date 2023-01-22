@@ -17,7 +17,7 @@
 
 - 📫 How to reach me : **mrunalnshah@protonmail.com**
 
-- ⚡ Fun fact : **I love you**
+- ⚡ Fun fact : **I CAN LOOK AT THE SKIES,OCEANS, LANDSCAPES FOR HOURS**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
