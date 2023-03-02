@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Bus Reservation System](https://github.com/mrunalnshah/Bus-Reservation-System)
 
-- 🌱 I’m currently learning : **C/C++**
+- 🌱 I’m currently learning : **C/C++ and GTK**
 
 - 👯 I’m looking to collaborate on : **LSB based Image steganography**
 
