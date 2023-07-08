@@ -5,11 +5,11 @@
 
 - 🔭 I’m currently working on [Bus Reservation System](https://github.com/mrunalnshah/Bus-Reservation-System)
 
-- 🌱 I’m currently learning : **C/C++ and GTK**
+- 🌱 I’m currently learning : **C/C++ and QT, CUDA ; Assembly x86_64 **
 
-- 👯 I’m looking to collaborate on : **LSB based Image steganography**
+- 👯 I’m looking to collaborate on : **Path-Finder Algorithms**
 
-- 🤝 I’m looking for help with : **LSB based Image steganography**
+- 🤝 I’m looking for help with : **Path-Finder Algorithms**
 
 - 👨‍💻 All of my projects are available at [https://github.com/mrunalnshah](https://github.com/mrunalnshah)
 
