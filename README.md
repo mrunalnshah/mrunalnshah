@@ -1,7 +1,7 @@
 # mrunalnshah
 ## About Me!! 
 
-I am Mrunal Nirajkumar Shah , a Computer Science Student in 3rd year. I am passionate about Artificial Intelligence and Radio Astronomy. Artificial Intelligence or Artificial Brain is something i wish to contribute in the field. Radio Astronomy, Electronmagentic waves always fascinates me. You can visit my Linkedin Page, links given below, to connect with me or know more about me!!!  
+I am Mrunal Nirajkumar Shah, a third-year Computer Science student. I am passionate about Artificial Intelligence and Radio Astronomy. I aspire to contribute to the field of Artificial Intelligence, sometimes I it referred to as Artificial Brain. Radio Astronomy and electromagnetic waves have always fascinated me. You can visit my LinkedIn page via the link below to connect with me or learn more about my interests.
   
 ---
 
