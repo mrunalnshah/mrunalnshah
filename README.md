@@ -5,7 +5,7 @@ I am Mrunal Nirajkumar Shah , a Computer Science Student in 3rd year. I am passi
   
 ---
 
-**Currently I am working ...**
+**Currently I am working on ...**
   1. hyjinx2i
   2. IVAS
 
