@@ -71,9 +71,3 @@
     <br />
   </p>
 </p>
-
-<div align="right">
-  
-[![HitCount](http://hits.dwyl.com/mrunalnshah/mrunalnshah.svg)](http://hits.dwyl.com/mrunalnshah/mrunalnshah) ![ViewCount](https://views.whatilearened.today/views/github/mrunalnshah/mrunalnshah.svg) [![Thanks!](https://img.shields.io/badge/Thanks%20for%20visiting-!-1EAEDB.svg)](https://mrunalnshah.github.io)
-
-</div>
