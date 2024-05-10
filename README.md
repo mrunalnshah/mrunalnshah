@@ -1,5 +1,5 @@
 # mrunalnshah
-![mrunalnshah's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrunalnshah&show_icons=true&theme=darcula)
+![mrunalnshah's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrunalnshah&show_icons=true&theme=dracula)
 ## About Me!!
 
 ## Repositories
