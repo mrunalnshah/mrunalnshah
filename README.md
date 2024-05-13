@@ -21,9 +21,10 @@ I am Mrunal Nirajkumar Shah, a third-year Computer Science student. I am passion
 
 ## Repositories
   ### Projects
-  1. [Bus Reservation System](https://github.com/mrunalnshah/Bus-Reservation-System)
-  2. [ChatWeb](https://github.com/AsgarDatari/ChatWeb)
-  3. [hyjinx2i](https://github.com/mrunalnshah/hyjinx2i)
+  1.  [hyjinx2i](https://github.com/mrunalnshah/hyjinx2i)
+  2.  [ChatWeb](https://github.com/AsgarDatari/ChatWeb)
+  3.  [Bus Reservation System](https://github.com/mrunalnshah/Bus-Reservation-System)
+
 
   ### Research Repositories
   ### Competitive-Zone
