@@ -54,7 +54,7 @@ I am Mrunal Nirajkumar Shah, a third-year Computer Science student. I am passion
 
   ### Course Work
   1. [Algorithm Specialization by Stanford](https://github.com/mrunalnshah/Algorithm-Specialization-by-Stanford)
-  2. [Mathematics for Machine Learning by DeepLearning.AI]()
+  2. [Mathematics for Machine Learning by DeepLearning.AI](https://github.com/mrunalnshah/Mathematics-for-Machine-Learning-and-Data-Science)
 ---  
 
 **Github Stats:**
