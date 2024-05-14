@@ -70,7 +70,6 @@ I am Mrunal Nirajkumar Shah, a third-year Computer Science student. I am passion
 
 
 
----
 
 <p align="center">
   <i>Let's connect and chat! Find me on the web...</i>
