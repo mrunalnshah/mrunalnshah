@@ -21,9 +21,24 @@ I am Mrunal Nirajkumar Shah, a third-year Computer Science student. I am passion
 
 ## Repositories
   ### Projects
-  1.  [hyjinx2i](https://github.com/mrunalnshah/hyjinx2i)
-  2.  [ChatWeb](https://github.com/AsgarDatari/ChatWeb)
-  3.  [Bus Reservation System](https://github.com/mrunalnshah/Bus-Reservation-System)
+  1.  [IVAS]()
+
+          IVAS : Image, Video and Audio Steganography in Python.
+  2.  [hyjinx2b]()      
+  3.  [hyjinx2i](https://github.com/mrunalnshah/hyjinx2i)
+
+          hyjinx2i is a interpreter made in c++ for the language Hyjinx.
+            
+  4.  [ChatWeb](https://github.com/AsgarDatari/ChatWeb)
+
+          A ChatWeb is a Responsive web application used for global communication with people.
+
+  5.  [Bus Reservation System](https://github.com/mrunalnshah/Bus-Reservation-System)
+
+          A bus reservation system with user and admin login would allow users to book tickets,
+          cancel tickets, view the schedule of buses, and check the status of a particular bus.
+          The system would also allow an admin to register new users and register new buses.
+          Overall, this system would provide user to book tickets and admin to manage schedule of the bus. 
 
 
   ### Research Repositories
@@ -37,7 +52,10 @@ I am Mrunal Nirajkumar Shah, a third-year Computer Science student. I am passion
   1. [Algorithms](https://github.com/mrunalnshah/Algorithms) 
   2. [Algorithm Specialization By Stanford](https://github.com/mrunalnshah/Algorithm-Specialization-by-Stanford)
 
----
+  ### Course Work
+  1. [Algorithm Specialization by Stanford](https://github.com/mrunalnshah/Algorithm-Specialization-by-Stanford)
+  2. [Mathematics for Machine Learning]()
+---  
 
 **Github Stats:**
 
