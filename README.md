@@ -62,7 +62,7 @@ I am Mrunal Nirajkumar Shah, a third-year Computer Science student. I am passion
 <p align="center">
   
   <img src="https://github-readme-stats.vercel.app/api?username=mrunalnshah&hide=commits&show_icons=true&theme=dracula&line_height=32">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrunalnshah&count_private=true&theme=dracula">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrunalnshah&count_private=true&theme=dracula&hide=jupyter%20notebook">
 
 </p>
 
