@@ -43,7 +43,7 @@ I am Mrunal Nirajkumar Shah, a third-year Computer Science student. I am passion
 
   ### Research Repositories
   ### Competitive-Zone
-  1. [LeetCode](https://github.com/mrunalnshah/Competitive-zone/tree/main/LeetCode)
+  1. [LeetCode](https://github.com/mrunalnshah/Competitive-Programming/tree/main/LeetCode)
 
        [![LeetCode user mrunalnshah](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fmrunalnshah&logo=leetcode&logoColor=yellow)](https://leetcode.com/mrunalnshah/)
      [![LeetCode user mrunalnshah](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Rating&query=ratingQuantile&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fmrunalnshah&logo=leetcode&logoColor=yellow)](https://leetcode.com/mrunalnshah/)
