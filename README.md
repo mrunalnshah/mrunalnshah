@@ -7,7 +7,7 @@ I am Mrunal Nirajkumar Shah, a third-year Computer Science student. I am passion
 
 **Currently I am working on ...**
   1. hyjinx2i
-  2. IVAS
+  2. hyjinx2b
 
 **Languages and Tools:**
 
