@@ -24,9 +24,9 @@ I am Mrunal Nirajkumar Shah, a third-year Computer Science student. I am passion
 
 ## Repositories
   ### Projects
-  1.  [IVAS]()
+  1.  [Image Classifier]()
 
-          IVAS : Image, Video and Audio Steganography in Python.
+         Image Classifier in Python 
   2.  [hyjinx2b]()      
   3.  [hyjinx2i](https://github.com/mrunalnshah/hyjinx2i)
 
