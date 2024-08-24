@@ -9,34 +9,39 @@ I am Mrunal Nirajkumar Shah, a third-year Computer Science student. I am passion
 ---
 
 **Currently I am working on ...**
-  1. hyjinx2i
-  2. hyjinx2b
+Nothing
 
 **Languages and Tools:**
 
 <p align="center">
-  <div align="center">
-    <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code><code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code><code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code><code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code><code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code><code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code><code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code><code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code><code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code> <code><img height="40" src="https://user-images.githubusercontent.com/5421823/62779159-4cf76880-baaa-11e9-8318-e20a1aaa913a.png"></code> 
-  </div>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cpp,python" />
+  </a>
 </p>
-
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mysql,firebase" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github" />
+  </a>
+</p>
 ---
 
 ## Repositories
   ### Projects
-  1.  [Image Classifier]()
-
-         Image Classifier in Python 
-  2.  [hyjinx2b]()      
-  3.  [hyjinx2i](https://github.com/mrunalnshah/hyjinx2i)
-
-          hyjinx2i is a interpreter made in c++ for the language Hyjinx.
-            
-  4.  [ChatWeb](https://github.com/AsgarDatari/ChatWeb)
+  1.  [ChatWeb](https://github.com/AsgarDatari/ChatWeb)
 
           A ChatWeb is a Responsive web application used for global communication with people.
 
-  5.  [Bus Reservation System](https://github.com/mrunalnshah/Bus-Reservation-System)
+  2.  [Bus Reservation System](https://github.com/mrunalnshah/Bus-Reservation-System)
 
           A bus reservation system with user and admin login would allow users to book tickets,
           cancel tickets, view the schedule of buses, and check the status of a particular bus.
@@ -45,15 +50,9 @@ I am Mrunal Nirajkumar Shah, a third-year Computer Science student. I am passion
 
 
   ### Research Repositories
-  ### Competitive-Zone
-  1. [LeetCode](https://github.com/mrunalnshah/Competitive-Programming/tree/main/LeetCode)
-
-       [![LeetCode user mrunalnshah](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fmrunalnshah&logo=leetcode&logoColor=yellow)](https://leetcode.com/mrunalnshah/)
-     [![LeetCode user mrunalnshah](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Rating&query=ratingQuantile&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fmrunalnshah&logo=leetcode&logoColor=yellow)](https://leetcode.com/mrunalnshah/)
-     
+  
   ### Algorithms and Data Structures
-  1. [Algorithms](https://github.com/mrunalnshah/Algorithms) 
-  2. [Algorithm Specialization By Stanford](https://github.com/mrunalnshah/Algorithm-Specialization-by-Stanford)
+  1. [Algorithm Specialization By Stanford](https://github.com/mrunalnshah/Algorithm-Specialization-by-Stanford)
 
   ### Course Work
   1. [Algorithm Specialization by Stanford](https://github.com/mrunalnshah/Algorithm-Specialization-by-Stanford)
@@ -63,10 +62,7 @@ I am Mrunal Nirajkumar Shah, a third-year Computer Science student. I am passion
 **Github Stats:**
 
 <p align="center">
-  
   <img src="https://github-readme-stats.vercel.app/api?username=mrunalnshah&hide=commits&show_icons=true&theme=dracula&line_height=32">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrunalnshah&count_private=true&theme=dracula&hide=jupyter%20notebook">
-
 </p>
 
 ---
