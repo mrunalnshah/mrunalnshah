@@ -53,7 +53,8 @@ Nothing
   ### Research Repositories
   
   ### Algorithms and Data Structures
-  1. [Algorithm Specialization By Stanford](https://github.com/mrunalnshah/Algorithm-Specialization-by-Stanford)
+  1. [Algorithms](https://github.com/mrunalnshah/Algorithms) 
+  2. [Algorithm Specialization By Stanford](https://github.com/mrunalnshah/Algorithm-Specialization-by-Stanford)
 
   ### Course Work
   1. [Algorithm Specialization by Stanford](https://github.com/mrunalnshah/Algorithm-Specialization-by-Stanford)
