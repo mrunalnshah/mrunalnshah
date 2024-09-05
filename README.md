@@ -41,6 +41,7 @@ I am Mrunal Nirajkumar Shah, a third-year Computer Science student. I am passion
 
 ---
 
+
 ## Repositories
   ### Projects
   1.  [ChatWeb](https://github.com/AsgarDatari/ChatWeb)
@@ -49,14 +50,16 @@ I am Mrunal Nirajkumar Shah, a third-year Computer Science student. I am passion
 
   2.  [Bus Reservation System](https://github.com/mrunalnshah/Bus-Reservation-System)
 
-          A bus reservation system with user and admin login would allow users to book tickets,
-          cancel tickets, view the schedule of buses, and check the status of a particular bus.
-          The system would also allow an admin to register new users and register new buses.
-          Overall, this system would provide user to book tickets and admin to manage schedule of the bus. 
+          A bus reservation system project where users can book tickets and/or cancel tickets of the bus which
+          are registered by admin. Admin can also cancel the bus journey. This is a console based C Project
+          with decades of functionality. It covers most of the C concept of pointers, file handling ( database)
+          and many more core concepts. 
 
 
+  ### [Coding Arena]()
+    
   ### Research Repositories
-  
+
   ### Algorithms and Data Structures
   1. [Algorithms](https://github.com/mrunalnshah/Algorithms) 
   2. [Algorithm Specialization By Stanford](https://github.com/mrunalnshah/Algorithm-Specialization-by-Stanford)
