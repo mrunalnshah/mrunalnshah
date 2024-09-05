@@ -9,7 +9,12 @@ I am Mrunal Nirajkumar Shah, a third-year Computer Science student. I am passion
 ---
 
 **Currently I am working on ...**
-Bus Reservation System
+
+<div align="center">
+  <p> hyjinx2i - An Interpreter </p>
+  <p> 2 Bit Adder </p>
+  <p> Image Classifier </p>
+</div>
 
 **Languages and Tools:**
 
