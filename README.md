@@ -56,9 +56,8 @@ I am Mrunal Nirajkumar Shah, a third-year Computer Science student. I am passion
           and many more core concepts. 
 
 
-  ### [Coding Arena]()
-    
-  ### Research Repositories
+  ### [Coding Arena](https://github.com/mrunalnshah/CodingArena)
+  ![LeetCode Stats](https://leetcode.card.workers.dev/mrunalnshah?theme=dark&font=source_code_pro&extension=activity)
 
   ### Algorithms and Data Structures
   1. [Algorithms](https://github.com/mrunalnshah/Algorithms) 
