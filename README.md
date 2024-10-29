@@ -52,9 +52,11 @@ I am Mrunal Nirajkumar Shah, a third-year Computer Science student. I am passion
   
   2.  [IPowerUp](https://github.com/mrunalnshah/IPowerUP)
 
-           Educational Game Website for Intellectual Property like copyright, patent, trademark, tradesecret. This is a prototype website build for a hackathon;  Games like Guess the logo, crossword, wordsearch, quiz are integrated with fun touch to learn the concepts, keywords in the IP world.
+           Educational Game Website for Intellectual Property like copyright, patent, trademark, tradesecret. This
+          is a prototype website build for a hackathon;  Games like Guess the logo, crossword, wordsearch, quiz are
+          integrated with fun touch to learn the concepts, keywords in the IP world.
 
-  3.  [Bus Reservation System](https://github.com/mrunalnshah/Bus-Reservation-System)
+  4.  [Bus Reservation System](https://github.com/mrunalnshah/Bus-Reservation-System)
 
           A bus reservation system project where users can book tickets and/or cancel tickets of the bus which
           are registered by admin. Admin can also cancel the bus journey. This is a console based C Project
