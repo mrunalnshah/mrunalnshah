@@ -47,7 +47,7 @@ I am Mrunal Nirajkumar Shah, a third-year Computer Science student. I am passion
 ## Repositories
   ### Projects
   1.  [ChatWeb](https://github.com/AsgarDatari/ChatWeb)
-
+     
           A ChatWeb is a Responsive web application used for global communication with people.
   
   2.  [IPowerUp](https://github.com/mrunalnshah/IPowerUP)
@@ -56,7 +56,7 @@ I am Mrunal Nirajkumar Shah, a third-year Computer Science student. I am passion
           is a prototype website build for a hackathon;  Games like Guess the logo, crossword, wordsearch, quiz are
           integrated with fun touch to learn the concepts, keywords in the IP world.
 
-  4.  [Bus Reservation System](https://github.com/mrunalnshah/Bus-Reservation-System)
+  3.  [Bus Reservation System](https://github.com/mrunalnshah/Bus-Reservation-System)
 
           A bus reservation system project where users can book tickets and/or cancel tickets of the bus which
           are registered by admin. Admin can also cancel the bus journey. This is a console based C Project
