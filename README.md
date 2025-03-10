@@ -13,9 +13,9 @@ I am Mrunal Nirajkumar Shah, a third-year Computer Science student. I am passion
 **Currently I am working on ...**
 
 <div align="center">
-  <p> hyjinx2i - An Interpreter </p>
-  <p> 2 Bit Adder </p>
-  <p> Image Classifier </p>
+  <p> Chronicles </p>
+  <p> 8 Bit Computer </p>
+  <p> Geospfera </p>
 </div>
 
 **Languages and Tools:**
