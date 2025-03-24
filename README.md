@@ -2,7 +2,7 @@
 
 [My Website Link](https://mrunalnshah.github.io/)
 
-{ Took Down for redevelopment }
+{ Took Down for redevelopment! look at my active projects... }
 
 ## About Me!! 
 
@@ -13,26 +13,26 @@ I am Mrunal Nirajkumar Shah, a third-year Computer Science student. I am passion
 **Currently I am working on ...**
 
 <div align="center">
-  <p> Chronicles </p>
-  <p> 8 Bit Computer </p>
-  <p> Geospfera </p>
+  <p> Chronicles - Write Your Journey </p>
+  <p> 8-bit Computer </p>
+  <p> Geosfera </p>
 </div>
 
 **Languages and Tools:**
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,python" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,python,dart" />
   </a>
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,flutter" />
   </a>
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,firebase" />
+    <img src="https://skillicons.dev/icons?i=mysql,firebase,sqlite" />
   </a>
 </p>
 <p align="center">
@@ -45,18 +45,30 @@ I am Mrunal Nirajkumar Shah, a third-year Computer Science student. I am passion
 
 
 ## Repositories
-  ### Projects
-  1.  [ChatWeb](https://github.com/AsgarDatari/ChatWeb)
+  ### Projects (From Latest to ...)
+
+  1. [Chronicles](https://github.com/mrunalnshah/Chronicles)
+
+          Chronicles - Write Your Journey is an AI-powered diary app that enhances your journaling experience with
+          features like To-Do Lists, Text-to-Speech, Speech-to-Text, and story sharing. Connect with others, reflect
+          on past emotions, and capture every moment of your journey in meaningful ways. 
+  
+  3. [Geosfera](https://github.com/mrunalnshah/Geosfera)
+
+         Geosfera is a android based Geo Guessing and Geo Learning game where players can learn about countries,
+         capitals, flags, and many more...
+  
+  5.  [ChatWeb](https://github.com/AsgarDatari/ChatWeb)
      
           A ChatWeb is a Responsive web application used for global communication with people.
   
-  2.  [IPowerUp](https://github.com/mrunalnshah/IPowerUP)
+  6.  [IPowerUp](https://github.com/mrunalnshah/IPowerUP)
 
           Educational Game Website for Intellectual Property like copyright, patent, trademark, tradesecret. This
           is a prototype website build for a hackathon;  Games like Guess the logo, crossword, wordsearch, quiz are
           integrated with fun touch to learn the concepts, keywords in the IP world.
 
-  3.  [Bus Reservation System](https://github.com/mrunalnshah/Bus-Reservation-System)
+  7.  [Bus Reservation System](https://github.com/mrunalnshah/Bus-Reservation-System)
 
           A bus reservation system project where users can book tickets and/or cancel tickets of the bus which
           are registered by admin. Admin can also cancel the bus journey. This is a console based C Project
