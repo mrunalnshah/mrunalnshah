@@ -2,27 +2,27 @@
 
 [My Website Link](https://mrunalnshah.github.io/)
 
-{ Took Down for redevelopment! look at my active projects... }
+{ Website is currently under development...Many of the pages will not work as of now. } 
 
 ## About Me!! 
 
-I am Mrunal Nirajkumar Shah, a third-year Computer Science student. I am passionate about Artificial Intelligence and Radio Astronomy. I aspire to contribute to the field of Artificial Intelligence, sometimes I refer it to as Artificial Brain. Radio Astronomy and electromagnetic waves have always fascinated me. You can visit my LinkedIn page via the link below to connect with me or learn more about my interests.
+I am Mrunal Nirajkumar Shah, a forth-year Computer Science student. I am passionate about Artificial Intelligence and Radio Astronomy. I aspire to contribute to the field of Artificial Intelligence, sometimes I refer it to as Artificial Brain. Radio Astronomy and electromagnetic waves have always fascinated me. You can visit my LinkedIn page via the link below to connect with me or learn more about my interests.
   
 ---
 
 **Currently I am working on ...**
 
 <div align="center">
+  <p> PyGene </p>
+  <p> 8-bit Computer - Ram Module </p>
   <p> Chronicles - Write Your Journey </p>
-  <p> 8-bit Computer </p>
-  <p> Geosfera </p>
 </div>
 
 **Languages and Tools:**
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,python,dart" />
+    <img src="https://skillicons.dev/icons?i=rust,c,cpp,python,dart" />
   </a>
 </p>
 <p align="center">
@@ -47,28 +47,42 @@ I am Mrunal Nirajkumar Shah, a third-year Computer Science student. I am passion
 ## Repositories
   ### Projects (From Latest to ...)
 
-  1. [Chronicles](https://github.com/mrunalnshah/Chronicles)
+  1. 8-bit computer
+
+          8-bit computer from scratch is a computer built using transistors, and simple electronics components.
+          Currently Clock Module is developed using 555 timer IC.
+
+          NAND2TETRIS and Ben Eater are a big help in my journey for learning core technologies.
+          
+  3. PyGene
+     
+          PyGene is a Open Source Library being developed by me for bioinformatics and genome sequencing and
+          medical image analysis.
+     
+  4. [Chronicles](https://github.com/mrunalnshah/Chronicles)
 
           Chronicles - Write Your Journey is an AI-powered diary app that enhances your journaling experience with
           features like To-Do Lists, Text-to-Speech, Speech-to-Text, and story sharing. Connect with others, reflect
           on past emotions, and capture every moment of your journey in meaningful ways. 
   
-  3. [Geosfera](https://github.com/mrunalnshah/Geosfera)
+  5. [Geosfera](https://github.com/mrunalnshah/Geosfera)
 
          Geosfera is a android based Geo Guessing and Geo Learning game where players can learn about countries,
          capitals, flags, and many more...
   
-  5.  [ChatWeb](https://github.com/AsgarDatari/ChatWeb)
+  6.  [ChatWeb](https://github.com/AsgarDatari/ChatWeb)
      
           A ChatWeb is a Responsive web application used for global communication with people.
   
-  6.  [IPowerUp](https://github.com/mrunalnshah/IPowerUP)
+  7.  [IPowerUp](https://github.com/mrunalnshah/IPowerUP)
 
           Educational Game Website for Intellectual Property like copyright, patent, trademark, tradesecret. This
           is a prototype website build for a hackathon;  Games like Guess the logo, crossword, wordsearch, quiz are
           integrated with fun touch to learn the concepts, keywords in the IP world.
 
-  7.  [Bus Reservation System](https://github.com/mrunalnshah/Bus-Reservation-System)
+  8.  [Bus Reservation System](https://github.com/mrunalnshah/Bus-Reservation-System)
+
+          My First Project!!! ALOT of BUGS.
 
           A bus reservation system project where users can book tickets and/or cancel tickets of the bus which
           are registered by admin. Admin can also cancel the bus journey. This is a console based C Project
