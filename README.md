@@ -37,7 +37,7 @@ An Engineer with a passion for building core systems and deep technologies. Hell
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github" />
+    <img src="https://skillicons.dev/icons?i=git" />
   </a>
 </p>
 
