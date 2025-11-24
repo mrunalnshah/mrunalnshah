@@ -1,8 +1,4 @@
-# Bello, globo!
-
-[My Website Link](https://mrunalnshah.github.io/)
-
-{ Website is currently under development...Many of the pages will not work as of now. } 
+# Bello, globo! 
 
 ## About Me!! 
 
