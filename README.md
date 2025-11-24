@@ -2,7 +2,7 @@
 
 ## About Me!! 
 
-An Engineer with a passion for building core systems and deep technologies. Hello, I'm Mrunal Shah. I work on compilers, operating systems, and embedded and system software. My interests also include reading about electromagnetic waves and radios, as well as exploring fields like bioinformatics with genomics, DNA sequencing, and CRISPR technology.
+An Engineer with a passion for building core systems and deep technologies. Hello, I'm Mrunal Shah. I work on compilers, operating systems, and embedded and system software. My interests also include reading about Qunatum Computers, electromagnetic waves and radios, as well as exploring fields like bioinformatics with genomics, DNA sequencing, and CRISPR technology.
 
 ---
 
