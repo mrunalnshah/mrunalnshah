@@ -2,16 +2,14 @@
 
 ## About Me!! 
 
-An Engineer with a passion for building core systems and deep technologies. Hello, I'm Mrunal Shah. I work on compilers, operating systems, and embedded and system software. My interests also include reading about Qunatum Computers, electromagnetic waves and radios, as well as exploring fields like bioinformatics with genomics, DNA sequencing, and CRISPR technology.
+An Engineer with a passion for building core systems and deep technologies. Hello, I'm Mrunal Shah. I work on Deep Learning models, compilers, and system software. My interests also include reading about Qunatum Computers, electromagnetic waves and radios waves, as well as exploring fields like bioinformatics with genomics, DNA sequencing, and CRISPR technology.
 
 ---
 
 **Currently I am working on ...**
 
 <div align="center">
-  <p> PyGene </p>
-  <p> 8-bit Computer - Ram Module </p>
-  <p> Chronicles - Write Your Journey </p>
+  <p> iDream </p>
 </div>
 
 **Languages and Tools:**
@@ -41,42 +39,53 @@ An Engineer with a passion for building core systems and deep technologies. Hell
 
 
 ## Repositories
-  ### Projects (From Latest to ...)
+  1. AI Projects
+  2. Quantum Projects
+  3. Classical Projects
 
-  1. 8-bit computer
+  ### AI Project
+  1. [Detecting Pneumonia with Dual-Path Ensembled Deep Learning Models with Lung Segmentation on Chest X-ray Images](https://drive.google.com/file/d/1lTU1VGRKkaZ02_xSRh_MizsF7ETYbjhQ/view)
+       - [Lung Segmentation Code](https://www.kaggle.com/code/mrunalnshah/lung-segmentation-unet-with-vgg11-encoder)
+       - [CRD Dataset](https://www.kaggle.com/datasets/mrunalnshah/crd-chest-x-ray-images-with-lung-segmented-masks)
+       - [Pneumonia Detection Code](https://www.kaggle.com/code/mrunalnshah/pneumonia-detection-averaged-ensembled)
+       - [PneumoniaCXR Dataset](https://www.kaggle.com/datasets/mrunalnshah/pneumoniacxr-normal-pneumonia-noopacitynonormal)
 
-          8-bit computer from scratch is a computer built using transistors, and simple electronics components.
-          Currently Clock Module is developed using 555 timer IC.
+  ### Quantum Project
+  1. [Index-Free Grover Search Implementation via QROM Based State Encoding for Quantum Pattern Search](https://github.com/mrunalnshah/Index-Free-Grovers-Algorithm)
 
-          NAND2TETRIS and Ben Eater are a big help in my journey for learning core technologies.
-          
-  3. PyGene
-     
-          PyGene is a Open Source Library being developed by me for bioinformatics and genome sequencing and
-          medical image analysis.
-     
-  4. [Chronicles](https://github.com/mrunalnshah/Chronicles)
+         Implementing Grover's Algorithm without prior marking the solutions in an Oracle construction.   
+  
+  2. [Grover Algorithm Visualising Quantum vs Classical Search](https://github.com/mrunalnshah/Grover-Algorithm-Visualising-Quantum-vs-Classical-Search)
+
+         A comparison of classical brute-force search vs. Grover's quantum search algorithm, visualizing the efficiency of Grover's algorithm with plots and analyzing its speedup in unstructured search. 
+    
+  3. [QRNG: Quantum Random Number Generator](https://github.com/mrunalnshah/QRNG---Quantum-Random-Number-Generator)
+
+         A Quantum Random Number Generator built from scratch using Hadamard and Pauli-Z gates to generate truly unpredictable bits and numbers via qubit superposition. 
+      
+  ### Classical Projects    
+  1. [Chronicles](https://github.com/mrunalnshah/Chronicles)
 
           Chronicles - Write Your Journey is an AI-powered diary app that enhances your journaling experience with
           features like To-Do Lists, Text-to-Speech, Speech-to-Text, and story sharing. Connect with others, reflect
           on past emotions, and capture every moment of your journey in meaningful ways. 
   
-  5. [Geosfera](https://github.com/mrunalnshah/Geosfera)
+  2. [Geosfera](https://github.com/mrunalnshah/Geosfera)
 
          Geosfera is a android based Geo Guessing and Geo Learning game where players can learn about countries,
          capitals, flags, and many more...
   
-  6.  [ChatWeb](https://github.com/AsgarDatari/ChatWeb)
+  3.  [ChatWeb](https://github.com/AsgarDatari/ChatWeb)
      
           A ChatWeb is a Responsive web application used for global communication with people.
   
-  7.  [IPowerUp](https://github.com/mrunalnshah/IPowerUP)
+  4.  [IPowerUp](https://github.com/mrunalnshah/IPowerUP)
 
           Educational Game Website for Intellectual Property like copyright, patent, trademark, tradesecret. This
           is a prototype website build for a hackathon;  Games like Guess the logo, crossword, wordsearch, quiz are
           integrated with fun touch to learn the concepts, keywords in the IP world.
 
-  8.  [Bus Reservation System](https://github.com/mrunalnshah/Bus-Reservation-System)
+  5.  [Bus Reservation System](https://github.com/mrunalnshah/Bus-Reservation-System)
 
           My First Project!!! ALOT of BUGS.
 
@@ -104,9 +113,7 @@ An Engineer with a passion for building core systems and deep technologies. Hell
 
 **Github Stats:**
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mrunalnshah&hide=commits&show_icons=true&theme=dracula&line_height=32">
-</p>
+![mrunalnshah's Stats](https://github-readme-stats.vercel.app/api?username=mrunalnshah&theme=dracula&show_icons=true&hide_border=true&count_private=false)
 
 ---
 
