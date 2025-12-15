@@ -1,5 +1,7 @@
 # Bello, globo! 
 
+## Website [mrunalnshah.github.io](https://mrunalnshah.github.io)
+
 ## About Me!! 
 
 An Engineer with a passion for building core systems and deep technologies. Hello, I'm Mrunal Shah. I work on Deep Learning models, compilers, and system software. My interests also include reading about Qunatum Computers, electromagnetic waves and radios waves, as well as exploring fields like bioinformatics with genomics, DNA sequencing, and CRISPR technology.
