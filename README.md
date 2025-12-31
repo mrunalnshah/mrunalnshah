@@ -115,12 +115,11 @@ An Engineer with a passion for building core systems and deep technologies. Hell
 
 **Github Stats:**
 
-![mrunalnshah's Stats](https://github-readme-stats.vercel.app/api?username=mrunalnshah&theme=dracula&show_icons=true&hide_border=true&count_private=false)
+<!-- ![mrunalnshah's Stats](https://github-readme-stats.vercel.app/api?username=mrunalnshah&theme=dracula&show_icons=true&hide_border=true&count_private=false) -->
+
+![GitHub Stats](https://git-hub-stats-card-generator.vercel.app/api/svg?username=mrunalnshah)
 
 ---
-
-
-
 
 <p align="center">
   <i>Let's connect and chat! Find me on the web...</i>
