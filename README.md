@@ -60,10 +60,11 @@ An Engineer with a passion for building core systems and deep technologies. Hell
   2. [Grover Algorithm Visualising Quantum vs Classical Search](https://github.com/mrunalnshah/Grover-Algorithm-Visualising-Quantum-vs-Classical-Search)
 
          A comparison of classical brute-force search vs. Grover's quantum search algorithm, visualizing the efficiency of Grover's algorithm with plots and analyzing its speedup in unstructured search. 
-    
-  3. [QRNG: Quantum Random Number Generator](https://github.com/mrunalnshah/QRNG---Quantum-Random-Number-Generator)
 
-         A Quantum Random Number Generator built from scratch using Hadamard and Pauli-Z gates to generate truly unpredictable bits and numbers via qubit superposition. 
+  3. [WaveFlip](https://github.com/mrunalnshah/WaveFlip)
+
+         An Quantum Randomness Generator 
+
       
   ### Classical Projects    
   1. [Chronicles](https://github.com/mrunalnshah/Chronicles)
