@@ -1,9 +1,18 @@
-# Bello, globo! 
+# bello, globo! 
 
 ***Website:*** [mrunalnshah.github.io](https://mrunalnshah.github.io) \
 ***BlogVerse:*** [https://mrunalnshah.github.io/BlogVerse/](https://mrunalnshah.github.io/BlogVerse/)
 
-## About Me!! 
+**Github Stats:**
+
+<!-- ![mrunalnshah's Stats](https://github-readme-stats.vercel.app/api?username=mrunalnshah&theme=dracula&show_icons=true&hide_border=true&count_private=false) -->
+
+![GitHub Stats](https://git-hub-stats-card-generator.vercel.app/api/svg?username=mrunalnshah&theme=dracula&show_icons=true&hide_border=true&count_private=false)
+
+---
+
+
+## About Me
 
 An Engineer with a passion for building core systems and deep technologies. Hello, I'm Mrunal Shah. I work on Deep Learning models, compilers, and system software. My interests also include reading about Qunatum Computers, electromagnetic waves and radios waves, as well as exploring fields like bioinformatics with genomics, DNA sequencing, and CRISPR technology.
 
@@ -12,14 +21,18 @@ An Engineer with a passion for building core systems and deep technologies. Hell
 **Currently I am working on ...**
 
 <div align="center">
-  <p> iDream </p>
+  <p> Algorithms, LeetCode & Kaggle </p>
 </div>
 
 **Languages and Tools:**
-
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=rust,c,cpp,python,dart" />
+    <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cpp,dart" />
   </a>
 </p>
 <p align="center">
@@ -34,7 +47,7 @@ An Engineer with a passion for building core systems and deep technologies. Hell
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git" />
+    <img src="https://skillicons.dev/icons?i=git,anaconda,androidstudio" />
   </a>
 </p>
 
@@ -115,13 +128,6 @@ An Engineer with a passion for building core systems and deep technologies. Hell
   2. [Mathematics for Machine Learning and Data Science by DeepLearning.AI](https://github.com/mrunalnshah/Mathematics-for-Machine-Learning-and-Data-Science)
 ---  
 
-**Github Stats:**
-
-<!-- ![mrunalnshah's Stats](https://github-readme-stats.vercel.app/api?username=mrunalnshah&theme=dracula&show_icons=true&hide_border=true&count_private=false) -->
-
-![GitHub Stats](https://git-hub-stats-card-generator.vercel.app/api/svg?username=mrunalnshah&theme=dracula&show_icons=true&hide_border=true&count_private=false)
-
----
 
 <p align="center">
   <i>Let's connect and chat! Find me on the web...</i>
