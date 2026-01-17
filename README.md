@@ -1,7 +1,8 @@
 # bello, globo! 
 
 ***Website:*** [mrunalnshah.github.io](https://mrunalnshah.github.io) \
-***BlogVerse:*** [https://mrunalnshah.github.io/BlogVerse/](https://mrunalnshah.github.io/BlogVerse/)
+***BlogVerse:*** [https://mrunalnshah.github.io/BlogVerse/](https://mrunalnshah.github.io/BlogVerse/) \
+***Algorithm's Digital Garden***: [https://mrunalnshah.github.io/algorithms-dg/](https://mrunalnshah.github.io/algorithms-dg/)
 
 **Github Stats:**
 
