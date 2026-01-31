@@ -15,7 +15,7 @@
 
 ## About Me
 
-An Engineer with a passion for building core systems and deep technologies. Hello, I'm Mrunal Shah. I work on Deep Learning models, compilers, and system software. My interests also include reading about Qunatum Computers, electromagnetic waves and radios waves, as well as exploring fields like bioinformatics with genomics, DNA sequencing, and CRISPR technology.
+An Engineer with a passion for building core systems and deep technologies. Hello, I'm Mrunal Shah. I work on Reinforcement Learning, Deep Learning models, Large Language Models, and Computer Vision. My interests also include reading about Qunatum Computers, electromagnetic waves and radios waves, as well as exploring fields like bioinformatics with genomics, DNA sequencing, and CRISPR technology.
 
 ---
 
