@@ -1,6 +1,6 @@
 # bello, globo! 
 
-***Website:*** [mrunalnshah.github.io](https://mrunalnshah.github.io) \
+***Website:*** [mrunalnshah.github.io](https://mrunalnshah.github.io)
 
 **Github Stats:**
 
