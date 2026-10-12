@@ -7,7 +7,7 @@ I'm Mrunal, an ML Engineer and AI grad student at Northeastern University. I lov
 ```python
 class MrunalShah:
     role       = "ML Engineer, MS in AI @ Northeastern University"
-    focus      = ["NLP", "semantic layers over messy data", "core ML systems"]
+    focus      = ["core ML systems", "semantic layers over messy data", "NLP", "RL" ]
     previously = "AI/ML Intern @ Silver Touch: NLP for legal compliance"
     research   = "Pneumonia detection from chest X-rays"
     datasets   = "2 published on Kaggle, 500+ downloads"
