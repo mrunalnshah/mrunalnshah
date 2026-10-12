@@ -5,7 +5,7 @@ I'm Mrunal, an ML Engineer and AI grad student at Northeastern University. I lov
 [Website](https://mrunalnshah.github.io) &nbsp;/&nbsp; [LinkedIn](https://www.linkedin.com/in/mrunalnshah/) &nbsp;/&nbsp; [Kaggle](https://www.kaggle.com/mrunalnshah) &nbsp;/&nbsp; [Email](mailto:mrunalnshah1001@gmail.com)
 
 ```python
-class mrunalnshah:
+class Mrunal:
     role       = "ML Engineer, MS in AI @ Northeastern University"
     focus      = ["core ML systems", "semantic layers over messy data", "NLP", "RL" ]
     previously = "AI/ML Intern @ Silver Touch: NLP for legal compliance"
