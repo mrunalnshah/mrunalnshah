@@ -1,7 +1,6 @@
 # bello, globo!
 
-I'm Mrunal, an ML engineer and AI grad student at Northeastern University.
-I build NLP systems and semantic layers over messy data.
+I'm Mrunal, an ML Engineer and AI grad student at Northeastern University. I love building ML systems, training models and working with messy data.
 
 [Website](https://mrunalnshah.github.io) &nbsp;/&nbsp; [LinkedIn](https://www.linkedin.com/in/mrunalnshah/) &nbsp;/&nbsp; [Kaggle](https://www.kaggle.com/mrunalnshah) &nbsp;/&nbsp; [Email](mailto:mrunalnshah1001@gmail.com)
 
