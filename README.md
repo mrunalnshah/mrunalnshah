@@ -19,7 +19,7 @@ class Mrunal:
 
 ## Featured
 
-**[AI from First Principles](https://github.com/mrunalnshah/ai-from-first-principles)**<br>
+**[AI from First Principles](https://mrunalnshah.github.io/ai-from-first-principles/)**<br>
 ML algorithms built from scratch, one notebook at a time.<br>
 [[notes]](https://mrunalnshah.github.io/ai-from-first-principles/)
 [[libcode]](https://github.com/mrunalnshah/ai-from-first-principles/tree/master/libcode)
